@@ -3,8 +3,6 @@
 	<rightascension>17 57 48</rightascension>
 	<declination>+04 41 36</declination>
 	<distance>1.834</distance>
-	<magV>9.511</magV>
-	<magK>4.524</magK>
 	<star>
 		<name>Barnards Star</name>
 		<spectraltype>M3.5V</spectraltype>
@@ -12,6 +10,8 @@
 		<radius>0.196</radius>
 		<temperature>3134</temperature>
 		<metallicity>0.21</metallicity>
+		<magV>9.511</magV>
+		<magK>4.524</magK>
 		<planet>
 			<name>Barnards Star (Fake) b</name>
 			<mass>0.018873454</mass>

@@ -1,22 +1,21 @@
 <system>
-	<name>GJ 581 (fake)</name>
+	<name>GJ 581 fake</name>
 	<rightascension>15 19 27</rightascension>
 	<declination>-07 43 19</declination>
 	<distance>6.2</distance>
-	<magV>10.61</magV>
-	<magK>3.34</magK>
 	<star>
-		<name>GJ 581 (fake)</name>
+		<name>GJ 581 fake</name>
 		<spectraltype>M5V</spectraltype>
 		<mass>0.31</mass>
 		<radius>0.29</radius>
 		<temperature>3480</temperature>
 		<metallicity>-0.33</metallicity>
+		<magV>10.61</magV>
+		<magK>3.34</magK>
 		<planet>
 			<name>GJ 581 (fake) b</name>
 			<mass>0.018873454</mass>
 			<radius>0.154921257</radius>
-			<radius>0.29</radius>
 			<period>14.7666</period>
 			<semimajoraxis>0.07972</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
